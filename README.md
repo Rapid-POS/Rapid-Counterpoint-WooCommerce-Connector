@@ -10,8 +10,10 @@ The **Rapid POS WooCommerce Connector** seamlessly integrates your Counterpoint 
 ---
 
 ## Minimum System Requirements:
-- Minimum Counterpoint version: **8.5.6.2**
-- Minimum SQL Server version: **2016**
+- Minimum Counterpoint version: **8.5.6.2**  
+- Minimum SQL Server version: **2016**  
+- Minimum Windows Server version: **2016**  
+- Minimum PowerShell version: **5.1**  
 
 If you would like the WooCommerce connector but your system does not meet these minimum requirements, please consult your Care Team Lead (vCIO) for an upgrade quote.
 
