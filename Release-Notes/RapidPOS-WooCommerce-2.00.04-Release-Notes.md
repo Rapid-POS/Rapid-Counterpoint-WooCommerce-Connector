@@ -22,3 +22,9 @@ _Release Date: Coming soon!_
 - Updated the install script to correctly control whether the **WooCommerce Item** checkbox is shown on the *Items* custom tab based on the `UseWooCommerceFlag` configuration value.  
   - When `UseWooCommerceFlag` is set to **false**, the **WooCommerce Item** checkbox is hidden.  
   - When `UseWooCommerceFlag` is set to **true**, the checkbox is displayed and positioned directly below the **WooCommerce ID** field.
+
+### Corrected Cell Description Population for Gridded Items on WooCommerce Order Imports 
+ 
+- Fixed an issue where WooCommerce orders imported into Counterpoint were not populating the **Cell Description field** for gridded items.  
+- The connector now correctly derives and sets `PS_DOC_LIN.CELL_DESCR` based on the item’s grid dimensions or cell count when downloading WooCommerce orders.  
+- This ensures that line items for gridded products display the expected cell description values in Counterpoint, matching native Counterpoint behavior.
