@@ -1,4 +1,4 @@
-# Rapid POS WooCommerce Connector v2.00.04 Release Notes  
+# Rapid POS WooCommerce Connector v2.00.06 Release Notes  
 _Release Date: Coming soon!_
 
 ---
