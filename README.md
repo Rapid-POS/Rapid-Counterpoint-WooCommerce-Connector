@@ -1,5 +1,5 @@
 # Rapid POS WooCommerce Connector - Version 2.00.04
-Updated 12/11/2025
+Updated 6/9/2026
 
 ---
 
@@ -16,6 +16,9 @@ The **Rapid POS WooCommerce Connector** seamlessly integrates your Counterpoint 
 - Minimum PowerShell version: **5.1**  
 
 If you would like the WooCommerce connector but your system does not meet these minimum requirements, please consult your Care Team Lead (vCIO) for an upgrade quote.
+
+> [!WARNING]
+> Your environment must meet our [CI/CD Connector Requirements](https://github.com/Rapid-POS/Miscellaneous-Documents/blob/main/CICD-Connector-Requirements.md) (server access, firewall rules, etc.) before any install or upgrade. Troubleshooting, manual installs, or follow-up work resulting from unmet requirements will be billed at standard T&M rates.
 
 ---
 
