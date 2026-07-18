@@ -1,5 +1,5 @@
-# Rapid POS WooCommerce Connector - Version 2.00.04
-Updated 7/7/2026
+# Rapid POS WooCommerce Connector - Version 2.01.00
+Updated 7/17/2026
 
 ---
 
